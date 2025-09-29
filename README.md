@@ -24,3 +24,7 @@ Updated dependencies for better maintainability - ID: 8oi03vzk
 ## Update 2025-09-29 10:40:58
 Fixed bug to optimize resource usage - ID: 6v28k4dp
 
+
+## Update 2025-09-29 10:41:07
+Added configuration to optimize resource usage - ID: ozxi40dz
+
